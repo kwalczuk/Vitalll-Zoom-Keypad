@@ -11,7 +11,8 @@
        a) Software Download and Setup
        b) Software use
        c) Updates
-4. Oher Info
+   
+5. Oher Info
 
 ## Setup for use **Without** Software 
 
@@ -58,3 +59,5 @@ Commonly used supported programs that can be used without software:
 ### Setup Process for other Programs
 
 The keypad can be used without software with any program that allows for shortcut customization. To do this, find the shortcut customization menu in your programs settings, and click the keys on the keypad to act as the new shortcuts. Use the zoom instructions for a rough guide, or message me with any questions or issues. The new shortcuts should be: F13, F14, F15, F16, from left to right on the keypad.
+
+## Software Setup
