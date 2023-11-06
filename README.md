@@ -51,3 +51,7 @@ Commonly used supported programs that can be used without software:
 | 2 (Share Icon)  | Start/Stop Screen Sharing  | F14 |
 | 3 (End Icon)  | End Meeting  | F15 |
 | 4 (Camera Icon)  | Start/Stop Video  | F16 |
+
+# Setup Process for other Programs
+
+The keypad can be used without software with any program that allows for shortcut customization. To do this, find the shortcut customization meanu in your programs settings, and click the keys on the keypad to act as the new shortcuts. Use the zoom instructions for a rouch guide, or message me with any questions.
