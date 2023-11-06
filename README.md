@@ -8,6 +8,9 @@
   c) Updates
 3. Oher Info
 
+100. First list item
+       - First nested list item
+         - Second nested list item
   
 ## Use **without** software setup
 
