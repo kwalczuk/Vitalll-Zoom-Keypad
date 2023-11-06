@@ -45,9 +45,9 @@ Commonly used supported programs that can be used without software:
 7. Repeat step 6 for the other keys using the table below.
 
 
-| Key On Keypad  | Zoom Description |
-| -------------  | ------------- |
-| 1 (Mic Icon)  | Mute/Unmute My Audio  |
-| 2 (Share Icon)  | Start/Stop Screen Sharing  |
-| 3 (End Icon)  | End Meeting  |
-| 4 (Camera Icon)  | Start/Stop Video  |
+| Key On Keypad  | Zoom Description | Final Shortcut |
+| -------------  | ------------- | ------------- |
+| 1 (Mic Icon)  | Mute/Unmute My Audio  | F13 |
+| 2 (Share Icon)  | Start/Stop Screen Sharing  | F14 |
+| 3 (End Icon)  | End Meeting  | F15 |
+| 4 (Camera Icon)  | Start/Stop Video  | F16 |
