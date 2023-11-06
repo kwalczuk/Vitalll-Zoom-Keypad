@@ -2,15 +2,16 @@
 
 ## Table of Contents
 1. Use without software
-2. Use with software
-  _ a) Software Download and Setup
-  b) Software use
+2. 
+  _ 
+  
   c) Updates
 3. Oher Info
 
-100. First list item
-       - First nested list item
-         - Second nested list item
+100. Use with software
+       - a) Software Download and Setup
+       - b) Software use
+       - c) Updates
   
 ## Use **without** software setup
 
