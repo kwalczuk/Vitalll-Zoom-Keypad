@@ -29,6 +29,9 @@ Commonly used supported programs that can be used without software:
 
        Zoom Meetongs
 
-#Setup Process for Zoom
+# Setup Process for Zoom
 
-1. 
+1. Open Zoom Meetings (sign in if necessary)
+2. Click on profile icon, and navigate to Settings
+<img width="720" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/b5997d9b-6eea-4f11-bd8d-2143fa96682b">
+
