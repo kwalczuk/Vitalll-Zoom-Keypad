@@ -22,9 +22,9 @@ The Keypad can be used with or without the Vitalll Studio software provided. The
        LED inicators
        Custom Shortcuts
        Customizability 
-![image](https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/cf056fd0-6711-43fe-a4ee-46f8f6acd1b5)
 
 
+<img width="500" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/5a077f45-32fe-4981-b98d-acd3bdad573c">
 > [!NOTE]
 > To use the keypad without software, shortcuts within the video meeting program used have to be changed. Not every program has the option to do this, so some programs will require the Vitall Studio software. 
 
