@@ -22,6 +22,7 @@ The Keypad can be used with or without the Vitalll Studio software provided. The
        LED inicators
        Custom Shortcuts
        Customizability 
+![image](https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/cf056fd0-6711-43fe-a4ee-46f8f6acd1b5)
 
 
 > [!NOTE]
