@@ -45,7 +45,9 @@ Commonly used supported programs that can be used without software:
 7. Repeat step 6 for the other keys using the table below.
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Key On Keypad  | Zoom Description |
+| -------------  | ------------- |
+| 1   | Mute/Unmute My Audio  |
+| 2   | Start/Stop Screen Sharing  |
+| 3   | End Meeting  |
+| 4   | Start/Stop Video  |
