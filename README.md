@@ -15,5 +15,5 @@
 
 
   
-## Use **without** software setup
+## Setup for use **Without** Software 
 
