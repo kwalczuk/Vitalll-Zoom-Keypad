@@ -29,7 +29,7 @@ Commonly used supported programs that can be used without software:
 
        Zoom Meetongs
 
-# Setup Process for Zoom
+### Setup Process for Zoom
 
 1. Open Zoom Meetings (sign in if necessary)
 
@@ -52,6 +52,6 @@ Commonly used supported programs that can be used without software:
 | 3 (End Icon)  | End Meeting  | F15 |
 | 4 (Camera Icon)  | Start/Stop Video  | F16 |
 
-# Setup Process for other Programs
+### Setup Process for other Programs
 
 The keypad can be used without software with any program that allows for shortcut customization. To do this, find the shortcut customization menu in your programs settings, and click the keys on the keypad to act as the new shortcuts. Use the zoom instructions for a rough guide, or message me with any questions or issues. The new shortcuts should be: F13, F14, F15, F16, from left to right on the keypad.
