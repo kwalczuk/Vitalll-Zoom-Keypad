@@ -27,7 +27,7 @@ To use the keypad without software, shortcuts within the video meeting program u
 
 Commonly used supported programs that can be used without software:
 
-       Zoom Meetongs
+       Zoom Meetings
 
 ### Setup Process for Zoom
 
