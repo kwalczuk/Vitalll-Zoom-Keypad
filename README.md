@@ -62,5 +62,5 @@ The keypad can be used without software with any program that allows for shortcu
 
 ## Software Setup
 
-> [!WARNING]
+> [!IMPORTANT]
 > Currently working on fixing a bug in the software. The software will be available ASAP. Sorry about the inconvenience.
