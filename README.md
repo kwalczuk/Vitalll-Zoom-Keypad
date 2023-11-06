@@ -41,8 +41,10 @@ Commonly used supported programs that can be used without software:
        <img width="500" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/b5997d9b-6eea-4f11-bd8d-2143fa96682b">
 </p>
 4. Scroll down and click "Keyboard Shortcuts"
-<img width="500" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/89640dea-3779-4698-a3ac-437eae8a3047">
 
+<p align="center">
+       <img width="500" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/89640dea-3779-4698-a3ac-437eae8a3047">
+</p>
 5. First find "Mute/Unmute My Audio" in the list
 6. Click on the current shortcut (Shortcut Column) to edit it, and then press the first button on the Keypad. (The shortcut should now say "F13")
 7. Repeat step 6 for the other keys using the table below.
