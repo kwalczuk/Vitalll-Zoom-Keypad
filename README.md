@@ -23,8 +23,10 @@ The Keypad can be used with or without the Vitalll Studio software provided. The
        Custom Shortcuts
        Customizability 
 
+
 > [!NOTE]
 > To use the keypad without software, shortcuts within the video meeting program used have to be changed. Not every program has the option to do this, so some programs will require the Vitall Studio software. 
+
 
 
 Commonly used supported programs that can be used without software:
