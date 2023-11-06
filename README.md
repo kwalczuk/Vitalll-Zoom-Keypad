@@ -22,8 +22,6 @@ The Keypad can be used with or without the Vitalll Studio software provided. The
        Custom Shortcuts
        Customizability 
 
-<img width="500" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/21db39f5-c84a-4d0a-8d81-26bbf468ca05
-">
 > [!NOTE]
 > To use the keypad without software, shortcuts within the video meeting program used have to be changed. Not every program has the option to do this, so some programs will require the Vitall Studio software. 
 
