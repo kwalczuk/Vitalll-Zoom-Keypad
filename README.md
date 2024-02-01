@@ -1,7 +1,7 @@
 # Vitalll-Zoom-Keypad
 
 ## Table of Contents
-1. [Purpose](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#1-software-setup)
+1. [Software Download Link](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#1-software-setup)
 3. [Use without software](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#2-setup-for-use-without-software)
 
        Info and compatible programs
