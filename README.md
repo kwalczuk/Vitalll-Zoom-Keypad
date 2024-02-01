@@ -72,7 +72,8 @@ The keypad can be used without software with any program that allows for shortcu
 Setup Instructions and Download:
 https://github.com/kwalczuk/Vitalll-Keypad-Studio-Software
 
-This software is still in development
+> [!NOTE]
+> This software is still in development and receiving updates
 
 ### Software Use
 To set up Global Video and Mic Mute click "Setup Global Mute" within the software and follow the instructions.
