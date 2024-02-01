@@ -1,7 +1,8 @@
 # Vitalll-Zoom-Keypad
 
 ## Table of Contents
-1. Use without software
+1. Software Download 
+2. Use without software
 
        a) Info and compatible programs
        b) Setup
@@ -11,8 +12,14 @@
        a) Software Download and Setup
        b) Software use
        c) Updates
-   
-5. Oher Info
+
+## Software Setup
+
+Setup Instuctions and download:
+https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
+
+This software is still in development
+
 
 ## Setup for use **Without** Software 
 
