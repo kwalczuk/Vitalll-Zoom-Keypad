@@ -64,5 +64,5 @@ The keypad can be used without software with any program that allows for shortcu
 
 Setup Instuctions and download:
 https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
-> [!IMPORTANT]
-> Currently working on fixing a bug in the software. The software will be available ASAP. Sorry about the inconvenience.
+
+This software is still in development
