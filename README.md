@@ -18,7 +18,8 @@
 Setup Instructions and download:
 https://github.com/kwalczuk/Vitalll-Keypad-Studio-Software
 
-This software is still in development
+> [!NOTE]
+> This software is still in development and receiving updates
 
 
 ## 2. Setup for use **Without** Software 
