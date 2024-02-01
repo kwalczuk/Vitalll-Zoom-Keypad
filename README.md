@@ -70,7 +70,7 @@ The keypad can be used without software with any program that allows for shortcu
 ## 3. Software Setup
 
 Setup Instuctions and download:
-https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
+https://github.com/kwalczuk/Vitalll-Keypad-Studio-Software
 
 This software is still in development
 
