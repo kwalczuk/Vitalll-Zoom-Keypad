@@ -15,15 +15,15 @@
 
 ## 1. Software Setup
 
-Setup Instuctions and download:
-https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
+Setup Instructions and download:
+https://github.com/kwalczuk/Vitalll-Keypad-Studio-Software
 
 This software is still in development
 
 
 ## 2. Setup for use **Without** Software 
 
-The Keypad can be used with or without the Vitalll Studio software provided. The software is not neccessary but it provides access to many useful features, inluding:
+The Keypad can be used with or without the Vitalll Studio software provided. The software is not necessary but it provides access to many useful features, including:
 
        Global Video and Mic Mute
        LED inicators
@@ -42,7 +42,7 @@ Commonly used supported programs that can be used without software:
 
 1. Open Zoom Meetings (sign in if necessary)
 
-3. Click on profile icon, and navigate to Settings
+3. Click on the profile icon, and navigate to Settings
 <p align="center">
        <img width="500" alt="image" src="https://github.com/kwalczuk/Vitalll-Zoom-Keypad/assets/44985287/b5997d9b-6eea-4f11-bd8d-2143fa96682b">
 </p>
@@ -63,19 +63,19 @@ Commonly used supported programs that can be used without software:
 | 3 (End Icon)  | End Meeting  | F15 |
 | 4 (Camera Icon)  | Start/Stop Video  | F16 |
 
-### Setup Process for other Programs
+### Setup Process for Other Programs
 
-The keypad can be used without software with any program that allows for shortcut customization. To do this, find the shortcut customization menu in your programs settings, and click the keys on the keypad to act as the new shortcuts. Use the zoom instructions for a rough guide, or message me with any questions or issues. The new shortcuts should be: F13, F14, F15, F16, from left to right on the keypad.
+The keypad can be used without software with any program that allows for shortcut customization. To do this, find the shortcut customization menu in your program's settings, and click the keys on the keypad to act as the new shortcuts. Use the zoom instructions for a rough guide, or message me with any questions or issues. The new shortcuts should be: F13, F14, F15, F16, from left to right on the keypad.
 
 ## 3. Software Setup
 
-Setup Instuctions and download:
+Setup Instructions and Download:
 https://github.com/kwalczuk/Vitalll-Keypad-Studio-Software
 
 This software is still in development
 
 ### Software Use
-To setup Global Video and Mic Mute click "Setup Global Mute" within the software and follow the instructions.
+To set up Global Video and Mic Mute click "Setup Global Mute" within the software and follow the instructions.
 Check/Uncheck Boxes to disable Global Video or Mic Mute after setup.
 Apply Changes
 
