@@ -1,5 +1,6 @@
 # Vitalll-Zoom-Keypad
-[<kbd> <br> Title <br> </kbd>][https://github.com/kwalczuk/Vitalll-Keypad-Studio-Software]
+[<kbd> <br> Title <br> </kbd>][Link]
+[Link]: # 'Link with example title.'
 ## Table of Contents
 1. [Purpose](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#1-software-setup)
 3. [Use without software](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#2-setup-for-use-without-software)
