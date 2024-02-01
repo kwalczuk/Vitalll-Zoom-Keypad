@@ -5,7 +5,7 @@
 3. [Use without software](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#2-setup-for-use-without-software)
 
        Info and compatible programs
-       [Setup for Zoom](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#setup-process-for-zoom)
+       Setup for Zoom
 
 5. [Use with software](https://github.com/kwalczuk/Vitalll-Zoom-Keypad?tab=readme-ov-file#3-software-setup)
    
