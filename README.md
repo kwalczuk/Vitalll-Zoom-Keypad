@@ -1,19 +1,19 @@
 # Vitalll-Zoom-Keypad
 
 ## Table of Contents
-1. Software Download 
+1. Software Download Link
 2. Use without software
 
-       a) Info and compatible programs
-       b) Setup
+       Info and compatible programs
+       Setup
 
 3. Use with software
    
-       a) Software Download and Setup
-       b) Software use
-       c) Updates
+       Software Download and Setup
+       Software use
+       Updates
 
-## Software Setup
+## 1. Software Setup
 
 Setup Instuctions and download:
 https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
@@ -21,7 +21,7 @@ https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
 This software is still in development
 
 
-## Setup for use **Without** Software 
+## 2. Setup for use **Without** Software 
 
 The Keypad can be used with or without the Vitalll Studio software provided. The software is not neccessary but it provides access to many useful features, inluding:
 
@@ -67,9 +67,21 @@ Commonly used supported programs that can be used without software:
 
 The keypad can be used without software with any program that allows for shortcut customization. To do this, find the shortcut customization menu in your programs settings, and click the keys on the keypad to act as the new shortcuts. Use the zoom instructions for a rough guide, or message me with any questions or issues. The new shortcuts should be: F13, F14, F15, F16, from left to right on the keypad.
 
-## Software Setup
+## 3. Software Setup
 
 Setup Instuctions and download:
 https://github.com/kwalczuk/Keypad-Studio-Software/tree/master
 
 This software is still in development
+
+### Software Use
+To setup Global Video and Mic Mute click "Setup Global Mute" within the software and follow the instructions.
+Check/Uncheck Boxes to disable Global Video or Mic Mute after setup.
+Apply Changes
+
+### Custom Shortcuts
+To create custom shortcuts for each key click "edit" on one of the 4 keys. 
+Note that if Global Video or Mic Mute is enabled the shortcut cannot be customized.
+Apply Changes after creating a custom shortcut. 
+
+
